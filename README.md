@@ -4,7 +4,7 @@ alfred-remify
 DailyWTF Remify Alfred Workflow
 -------------------------------
 
-If you frequent the DailyWTF site, you've probably come across posts
+If you frequent the DailyWTF site (http://www.thedailywtf.com), you've probably come across posts
 by Remy Porter, who usually (always?) includes HTML comments in his articles,
 and adds code so that when you click on a certain word, something magical
 happens.
